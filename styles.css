@@ -1,0 +1,133 @@
+body{
+    background-color: #C0D8C0;
+}
+.intro{
+    background-color: black;
+    text-align: center;
+}
+.about{
+    color: white;
+}
+
+.tophr{
+    color: violet;
+}
+.name{
+    color: black;
+}
+img {
+    height: 200px;
+}
+
+.hr1{
+    border-style: none;
+    border-top-style: dotted;
+    border: size 5px; ;
+    border-color: #24A19C;
+    border-width: 5px;;
+    width: 3%;
+    
+}
+.hr2{
+    border-style: none;
+    border-top-style: dotted;
+    border: size 5px; ;
+    border-color: #24A19C;
+    border-width: 5px;;
+    width: 3%;
+    
+}
+.h3{
+    border-style: none;
+    border-top-style: dotted;
+    border: size 5px; ;
+    border-color: #24A19C;
+    border-width: 5px;;
+    width: 3%;
+    
+}
+
+.tophr{
+  background-color: purple;
+    height: 5px;
+}
+h1{
+    color: white;
+}
+.name{
+    display: inline-block;
+}
+
+li{
+    
+    display: inline;
+    padding: 20px;
+    
+    
+}
+.topbox{
+    background-color: white;
+    margin: 0px;
+    padding: 0px;
+}
+.p1{
+   color:white;
+   font: italic;
+   font-size: large;
+}
+.p2{
+    color: white;
+    font: italic;
+    font-size: large;
+}
+h1{
+    font-size: 70px;
+}
+.git{
+    background-color: white;
+    padding: 0px;
+    margin: 0px;
+}
+.fa:hover {
+    opacity: 0.9;
+}
+
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+}
+
+.fa-facebook {
+    background: #007bb5;
+    color: white;
+}
+
+.fa-instagram {
+    background: #ca8832de;
+    color: white;
+}
+.fa {
+    padding: 10px;
+    font-size: 20px;
+    width: 30px;
+    text-decoration: none;
+    margin: 5px 40px;
+}
+
+
+table{
+    width: 100;
+}
+.h4{
+    border-style: none;
+    border-top-style: dotted;
+    border: size 5px; ;
+    border-color: #24A19C;
+    border-width: 5px;;
+    width: 3%;
+    
+}
+.quotes{
+    font-size: larger;
+    font-style: italic;
+}
